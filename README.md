@@ -1,6 +1,6 @@
 ## Shruti Anna Samuel
 
-[![LinkedIn Badge](https://img.shiels.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/shruti-samuel-9010ba8b)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-samuel-9010ba8b)
 
 
 
