@@ -6,7 +6,7 @@
 
 
 
-I am a Geospatial Analyst and a postgraduate in Applied Geology. I am passionate about processing, analyzing, and interpreting geospatial data. I enjoy learning and utilizing geospatial platforms for Earth Science applications. 
+I am a Geospatial Analyst and a postgraduate in Applied Geology. I am passionate about processing, analyzing, and interpreting geospatial data. I enjoy learning and utilizing various geospatial platforms for Earth Science applications. 
 
 Welcome to my page!!
 
