@@ -17,6 +17,8 @@ Welcome to my page!!
 
 **M.Sc Integrated** _Applied Geology_ _(2011-2016)_ 
 
+**Masters** _Geospatial Science_ _(2022-2024)_ 
+
 ### Skills and Softwares
 ArcGIS Desktop
 ArcGIS Pro
