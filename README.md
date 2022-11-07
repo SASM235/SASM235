@@ -6,7 +6,7 @@
 
 
 
-I am a geospatial student at RMIT and a postgraduate in Applied Geology. I am passionate about processing, analyzing, and interpreting geospatial data. I enjoy learning and utilizing various geospatial platforms for Earth Science applications. 
+I am a geospatial student and a postgraduate in Applied Geology. I am passionate about processing, analyzing, and interpreting geospatial data. I enjoy learning and utilizing various geospatial platforms for Earth Science applications. 
 
 Welcome to my page!!
 
