@@ -6,12 +6,13 @@
 
 
 
-I am a Geospatial Analyst and a postgraduate in Applied Geology. I am passionate about processing, analyzing, and interpreting geospatial data. I enjoy learning and utilizing various geospatial platforms for Earth Science applications. 
+I am a geospatial student at RMIT and a postgraduate in Applied Geology. I am passionate about processing, analyzing, and interpreting geospatial data. I enjoy learning and utilizing various geospatial platforms for Earth Science applications. 
 
 Welcome to my page!!
 
 ### Education
 
+**Masters in Geospatial Science** _(2022-2024)_
 
 **Post Graduate Diploma** _Remote Sensing and GIS with specialization in Geosciences_ _(2016-2017)_
 
